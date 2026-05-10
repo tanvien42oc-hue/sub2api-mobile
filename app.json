@@ -37,7 +37,10 @@
       "expo-secure-store"
     ],
     "extra": {
-      "router": {}
+      "router": {},
+      "eas": {
+        "projectId": "b2a38f9a-7ffb-4376-8f4e-0a6bfa4d2276"
+      }
     },
     "runtimeVersion": {
       "policy": "appVersion"
